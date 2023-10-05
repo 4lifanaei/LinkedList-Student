@@ -1,0 +1,7 @@
+C:\Users\jarvic\source\repos\Linkedlist_HW2\Linkedlist_HW2\bin\Debug\Linkedlist_HW2.exe.config
+C:\Users\jarvic\source\repos\Linkedlist_HW2\Linkedlist_HW2\bin\Debug\Linkedlist_HW2.exe
+C:\Users\jarvic\source\repos\Linkedlist_HW2\Linkedlist_HW2\bin\Debug\Linkedlist_HW2.pdb
+C:\Users\jarvic\source\repos\Linkedlist_HW2\Linkedlist_HW2\obj\Debug\Linkedlist_HW2.csproj.AssemblyReference.cache
+C:\Users\jarvic\source\repos\Linkedlist_HW2\Linkedlist_HW2\obj\Debug\Linkedlist_HW2.csproj.CoreCompileInputs.cache
+C:\Users\jarvic\source\repos\Linkedlist_HW2\Linkedlist_HW2\obj\Debug\Linkedlist_HW2.exe
+C:\Users\jarvic\source\repos\Linkedlist_HW2\Linkedlist_HW2\obj\Debug\Linkedlist_HW2.pdb
